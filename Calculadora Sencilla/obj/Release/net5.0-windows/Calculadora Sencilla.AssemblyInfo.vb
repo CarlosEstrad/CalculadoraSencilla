@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1"),  _
