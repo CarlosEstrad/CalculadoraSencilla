@@ -210,7 +210,7 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaption
-        Me.Label1.Location = New System.Drawing.Point(81, 264)
+        Me.Label1.Location = New System.Drawing.Point(3, 3)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(202, 12)
         Me.Label1.TabIndex = 18
@@ -221,7 +221,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(383, 285)
+        Me.ClientSize = New System.Drawing.Size(279, 285)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.ButtonSumar)
