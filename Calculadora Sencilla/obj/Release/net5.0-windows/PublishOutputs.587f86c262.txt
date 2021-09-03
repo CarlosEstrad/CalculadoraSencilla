@@ -1,0 +1,5 @@
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\publish\Calculadora Sencilla.exe
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\publish\Calculadora Sencilla.dll
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\publish\Calculadora Sencilla.deps.json
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\publish\Calculadora Sencilla.runtimeconfig.json
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\publish\Calculadora Sencilla.pdb

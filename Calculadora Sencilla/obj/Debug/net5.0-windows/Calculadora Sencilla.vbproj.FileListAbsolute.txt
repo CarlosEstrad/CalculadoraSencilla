@@ -1,0 +1,18 @@
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.exe
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.deps.json
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.runtimeconfig.json
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.runtimeconfig.dev.json
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.dll
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\ref\Calculadora Sencilla.dll
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Debug\net5.0-windows\Calculadora Sencilla.pdb
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.vbproj.AssemblyReference.cache
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.AssemblyInfoInputs.cache
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.AssemblyInfo.vb
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.dll
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\ref\Calculadora Sencilla.dll
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.pdb
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.genruntimeconfig.cache
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora_Sencilla.Form1.resources
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.vbproj.GenerateResource.cache
