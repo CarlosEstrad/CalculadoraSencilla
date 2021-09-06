@@ -69,16 +69,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>f5iLo5tosbzBpYRWYiVzGHe6c9toAtnE3U6pCUilZfo=</dsig:DigestValue>
+      <dsig:DigestValue>DEZBcxqCplFCoJGzBjjY19biipU+jC2F7d7lfPumqtw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Calculadora Sencilla.dll" size="45056">
+  <file name="Calculadora Sencilla.dll" size="45568">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5v7lUJqtksxtUA4/D6X9zrfuR9P7kpngYerjLCys+Co=</dsig:DigestValue>
+      <dsig:DigestValue>yecmOIhMhdGuE+cvLIQpHOeMH/YFcSu7w6Eq5wYDeOg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Calculadora Sencilla.exe" size="147456">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YRgrIwAqKRd3ofpBLEFkBhoaKLssT3Fapm6pnpMnwmo=</dsig:DigestValue>
+      <dsig:DigestValue>Ql6Y5Q7ybjjpVB0I6J/ryQte6+pH1IL58fjzm+MMJ3A=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Calculadora Sencilla.runtimeconfig.json" size="154">
