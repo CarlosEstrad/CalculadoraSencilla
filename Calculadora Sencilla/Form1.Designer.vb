@@ -217,7 +217,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(279, 335)
+        Me.ClientSize = New System.Drawing.Size(428, 335)
         Me.Controls.Add(Me.txtValor)
         Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.ButtonSumar)
@@ -238,7 +238,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla V 1.2"
+        Me.Text = "Calculadora  Sencilla V 1.3"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
