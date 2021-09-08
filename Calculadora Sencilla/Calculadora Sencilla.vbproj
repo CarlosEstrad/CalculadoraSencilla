@@ -8,9 +8,9 @@
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <ApplicationIcon>assest\icon\calculadora.ico</ApplicationIcon>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.0.5</AssemblyVersion>
+    <FileVersion>1.0.0.5</FileVersion>
+    <Version>1.0.5</Version>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
     <PackageIcon>calculadora.ico</PackageIcon>
     <PackageIconUrl />
