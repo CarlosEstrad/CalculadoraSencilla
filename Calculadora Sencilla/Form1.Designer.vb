@@ -249,7 +249,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla V 1.4"
+        Me.Text = "Calculadora  Sencilla V 1.5"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
