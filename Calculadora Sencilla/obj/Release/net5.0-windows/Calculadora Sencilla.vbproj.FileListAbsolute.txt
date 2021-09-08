@@ -17,7 +17,3 @@ C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\o
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Release\net5.0-windows\Calculadora Sencilla.genruntimeconfig.cache
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Release\net5.0-windows\Calculadora Sencilla.vbproj.AssemblyReference.cache
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Release\net5.0-windows\Calculadora_Sencilla.Resources.resources
-C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Release\net5.0-windows\Calculadora Sencilla.dll.manifest
-C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\bin\Release\net5.0-windows\Calculadora Sencilla.application
-C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Release\net5.0-windows\Calculadora Sencilla.dll.manifest
-C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Release\net5.0-windows\Calculadora Sencilla.application
