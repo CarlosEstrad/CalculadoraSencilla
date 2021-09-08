@@ -41,6 +41,7 @@ Partial Class Form1
         Me.ButtonSumar = New System.Windows.Forms.Button()
         Me.txtResultado = New System.Windows.Forms.TextBox()
         Me.txtValor = New System.Windows.Forms.TextBox()
+        Me.Button11 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -213,11 +214,21 @@ Partial Class Form1
         Me.txtValor.TabIndex = 19
         Me.txtValor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
+        'Button11
+        '
+        Me.Button11.Location = New System.Drawing.Point(211, 265)
+        Me.Button11.Name = "Button11"
+        Me.Button11.Size = New System.Drawing.Size(59, 46)
+        Me.Button11.TabIndex = 20
+        Me.Button11.Text = "Button11"
+        Me.Button11.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(428, 335)
+        Me.ClientSize = New System.Drawing.Size(323, 335)
+        Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.txtValor)
         Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.ButtonSumar)
@@ -238,7 +249,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla V 1.3"
+        Me.Text = "Calculadora  Sencilla V 1.4"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -263,4 +274,5 @@ Partial Class Form1
     Friend WithEvents ButtonSumar As Button
     Friend WithEvents txtResultado As TextBox
     Friend WithEvents txtValor As TextBox
+    Friend WithEvents Button11 As Button
 End Class
