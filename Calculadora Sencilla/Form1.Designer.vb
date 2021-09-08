@@ -40,7 +40,6 @@ Partial Class Form1
         Me.ButtonRestar = New System.Windows.Forms.Button()
         Me.ButtonSumar = New System.Windows.Forms.Button()
         Me.txtResultado = New System.Windows.Forms.TextBox()
-        Me.Label1 = New System.Windows.Forms.Label()
         Me.txtValor = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
@@ -206,18 +205,6 @@ Partial Class Form1
         Me.txtResultado.Text = "0"
         Me.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Segoe UI", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaption
-        Me.Label1.Location = New System.Drawing.Point(3, 3)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(202, 12)
-        Me.Label1.TabIndex = 18
-        Me.Label1.Text = "Calculadora sencilla Carlos Estrada Versión 1.1"
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopRight
-        '
         'txtValor
         '
         Me.txtValor.Location = New System.Drawing.Point(16, 68)
@@ -232,7 +219,6 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(279, 335)
         Me.Controls.Add(Me.txtValor)
-        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.ButtonSumar)
         Me.Controls.Add(Me.ButtonRestar)
@@ -252,7 +238,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla"
+        Me.Text = "Calculadora  Sencilla V 1.2"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -276,6 +262,5 @@ Partial Class Form1
     Friend WithEvents ButtonRestar As Button
     Friend WithEvents ButtonSumar As Button
     Friend WithEvents txtResultado As TextBox
-    Friend WithEvents Label1 As Label
     Friend WithEvents txtValor As TextBox
 End Class
