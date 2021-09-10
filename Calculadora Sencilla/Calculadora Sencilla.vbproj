@@ -18,11 +18,8 @@
     <RepositoryType>Repositorio de datos</RepositoryType>
     <Authors>Carlos Estrada</Authors>
     <Description>Podemos calcular operaciones sencillas</Description>
-<<<<<<< HEAD
-    <PackageId>1</PackageId>
-=======
-    <PackageId>001</PackageId>
->>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
+
+   <PackageId>001</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

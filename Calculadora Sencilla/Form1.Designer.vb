@@ -229,18 +229,11 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(16, 13)
         Me.Label1.Name = "Label1"
-<<<<<<< HEAD
+
         Me.Label1.Size = New System.Drawing.Size(95, 15)
         Me.Label1.TabIndex = 21
         Me.Label1.Text = "Bienvenidos 1.14"
-=======
-        Me.Label1.Size = New System.Drawing.Size(113, 15)
-        Me.Label1.TabIndex = 21
-        Me.Label1.Text = "Bienvenidos 1.0.0.14"
->>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
-        '
-        'Form1
-        '
+
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(278, 335)

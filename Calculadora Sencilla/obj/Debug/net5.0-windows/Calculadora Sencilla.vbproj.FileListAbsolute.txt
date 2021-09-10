@@ -16,3 +16,4 @@ C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\o
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.genruntimeconfig.cache
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora_Sencilla.Form1.resources
 C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora Sencilla.vbproj.GenerateResource.cache
+C:\Users\Carlos Estrada\source\repos\Calculadora Sencilla\Calculadora Sencilla\obj\Debug\net5.0-windows\Calculadora_Sencilla.Resources.resources

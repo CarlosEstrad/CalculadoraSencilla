@@ -16,11 +16,7 @@
     "version": "1.0.14",
     "restore": {
       "projectUniqueName": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj",
-<<<<<<< HEAD
-      "projectName": "1",
-=======
       "projectName": "001",
->>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
       "projectPath": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj",
       "packagesPath": "C:\\Users\\Carlos Estrada\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\obj\\",
@@ -77,5 +73,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

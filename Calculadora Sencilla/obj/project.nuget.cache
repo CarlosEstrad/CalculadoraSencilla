@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "QeaPaVqO8N5vy3kd0LdlB9ahgve0O4ELCGbWdXoHLuqg76R/XJolBO0mD1feVt3CLH0Q0HvdQ3vlfghmvax37Q==",
-=======
   "dgSpecHash": "kA5Ys4l4pMUeiA9RGgbjIc5INx+8woDW2hfjFNvus2BSUvTwfc4YFkOSUOgyhHMrUHFNBB7hX1Aaj6xCNjNgrg==",
->>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
