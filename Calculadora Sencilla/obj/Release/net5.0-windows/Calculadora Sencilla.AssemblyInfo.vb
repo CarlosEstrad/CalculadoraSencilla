@@ -13,10 +13,11 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora Sencilla"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Carlos Estrada"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
+ Assembly: System.Reflection.AssemblyDescriptionAttribute("Podemos calcular operaciones sencillas"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.8"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.11"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.8"),  _

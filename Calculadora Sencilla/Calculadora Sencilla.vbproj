@@ -10,12 +10,14 @@
     <ApplicationIcon>assest\icon\calculadora.ico</ApplicationIcon>
     <AssemblyVersion>1.0.0.8</AssemblyVersion>
     <FileVersion>1.0.0.8</FileVersion>
-    <Version>1.0.5</Version>
+    <Version>1.0.11</Version>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <PackageIcon>calculadora.ico</PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/CarlosEstrad/CalculadoraSencilla.git</RepositoryUrl>
     <RepositoryType>Repositorio de datos</RepositoryType>
+    <Authors>Carlos Estrada</Authors>
+    <Description>Podemos calcular operaciones sencillas</Description>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
