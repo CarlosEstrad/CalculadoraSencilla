@@ -114,7 +114,7 @@
         If (ValorResultado IsNot Nothing) Then
             Select Case Operacion
                 Case "+"
-                    ValorResultado = ValorResultado + Valor2
+                    ValorResultado += Valor2
                 Case "-"
                     ValorResultado -= Valor2
                 Case "*"

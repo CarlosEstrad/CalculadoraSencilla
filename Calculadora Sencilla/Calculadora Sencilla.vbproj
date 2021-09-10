@@ -12,7 +12,7 @@
     <FileVersion>1.0.0.14</FileVersion>
     <Version>1.0.14</Version>
     <ApplicationManifest>app1.manifest</ApplicationManifest>
-    <PackageIcon></PackageIcon>
+    <PackageIcon>icons.png</PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/CarlosEstrad/CalculadoraSencilla.git</RepositoryUrl>
     <RepositoryType>Repositorio de datos</RepositoryType>
@@ -29,6 +29,10 @@
   <ItemGroup>
     <None Remove="assest\icon\1486395290-09-calculator_80565.png" />
     <None Remove="assest\icon\1486395290-09-calculator_80565.png" />
+    <None Include="assest\icon\icons.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
@@ -65,10 +69,6 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="assest\icon\" />
   </ItemGroup>
 
   <ItemGroup>
