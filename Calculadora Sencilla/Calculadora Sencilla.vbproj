@@ -11,8 +11,8 @@
     <AssemblyVersion>1.0.0.14</AssemblyVersion>
     <FileVersion>1.0.0.14</FileVersion>
     <Version>1.0.14</Version>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
-    <PackageIcon>1486395290-09-calculator_80565.png</PackageIcon>
+    <ApplicationManifest>app1.manifest</ApplicationManifest>
+    <PackageIcon></PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/CarlosEstrad/CalculadoraSencilla.git</RepositoryUrl>
     <RepositoryType>Repositorio de datos</RepositoryType>
@@ -25,6 +25,11 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assest\icon\1486395290-09-calculator_80565.png" />
+    <None Remove="assest\icon\1486395290-09-calculator_80565.png" />
+  </ItemGroup>
 
   <ItemGroup>
     <Import Include="System.Data" />
@@ -59,10 +64,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="assest\icon\1486395290-09-calculator_80565.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
     </None>
   </ItemGroup>
 
