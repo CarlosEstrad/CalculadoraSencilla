@@ -8,19 +8,31 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
+<<<<<<< HEAD
+    <deploymentProvider codebase="https://github.com/CarlosEstrad/CalculadoraSencilla.git/Calculadora%20Sencilla.application" />
+=======
+>>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
+<<<<<<< HEAD
+    <dependentAssembly dependencyType="install" codebase="Application Files\Calculadora Sencilla_1_0_0_15\Calculadora Sencilla.dll.manifest" size="6324">
+=======
     <dependentAssembly dependencyType="install" codebase="Application Files\Calculadora Sencilla_1_0_0_15\Calculadora Sencilla.dll.manifest" size="6751">
+>>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
       <assemblyIdentity name="Calculadora Sencilla.exe" version="1.0.0.15" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+<<<<<<< HEAD
+        <dsig:DigestValue>RJfMqodc88NEg/uVPjPgElWbnycdwUuy/7wzPhDayUQ=</dsig:DigestValue>
+=======
         <dsig:DigestValue>gAN4zNzhF8/bqKT3kIw94k2le54/ILaTwfoYh6/VsJA=</dsig:DigestValue>
+>>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
       </hash>
     </dependentAssembly>
   </dependency>

@@ -12,13 +12,17 @@
     <FileVersion>1.0.0.14</FileVersion>
     <Version>1.0.14</Version>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <PackageIcon>calculadora.ico</PackageIcon>
+    <PackageIcon>1486395290-09-calculator_80565.png</PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/CarlosEstrad/CalculadoraSencilla.git</RepositoryUrl>
     <RepositoryType>Repositorio de datos</RepositoryType>
     <Authors>Carlos Estrada</Authors>
     <Description>Podemos calcular operaciones sencillas</Description>
+<<<<<<< HEAD
+    <PackageId>1</PackageId>
+=======
     <PackageId>001</PackageId>
+>>>>>>> ad9e4078e445468b9250592277cf1c4fbee0f4aa
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -59,7 +63,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="assest\icon\calculadora.ico">
+    <None Include="assest\icon\1486395290-09-calculator_80565.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
