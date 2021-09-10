@@ -72,13 +72,13 @@
       <dsig:DigestValue>DEZBcxqCplFCoJGzBjjY19biipU+jC2F7d7lfPumqtw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Calculadora Sencilla.dll" size="46080">
+  <file name="Calculadora Sencilla.dll" size="45568">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4razJwbD29dHppeJwSeT4pDRn32th9q9jLT4fzBTKIM=</dsig:DigestValue>
+      <dsig:DigestValue>yecmOIhMhdGuE+cvLIQpHOeMH/YFcSu7w6Eq5wYDeOg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Calculadora Sencilla.exe" size="147456">
