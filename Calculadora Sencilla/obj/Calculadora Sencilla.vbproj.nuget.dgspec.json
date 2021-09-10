@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj": {
-      "version": "1.0.11",
+      "version": "1.0.14",
       "restore": {
         "projectUniqueName": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj",
-        "projectName": "Calculadora Sencilla",
+        "projectName": "001",
         "projectPath": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\Calculadora Sencilla.vbproj",
         "packagesPath": "C:\\Users\\Carlos Estrada\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Carlos Estrada\\source\\repos\\Calculadora Sencilla\\Calculadora Sencilla\\obj\\",

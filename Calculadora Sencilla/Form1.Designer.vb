@@ -42,6 +42,7 @@ Partial Class Form1
         Me.txtResultado = New System.Windows.Forms.TextBox()
         Me.txtValor = New System.Windows.Forms.TextBox()
         Me.Button11 = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
@@ -199,7 +200,7 @@ Partial Class Form1
         '
         'txtResultado
         '
-        Me.txtResultado.Location = New System.Drawing.Point(16, 18)
+        Me.txtResultado.Location = New System.Drawing.Point(16, 41)
         Me.txtResultado.Name = "txtResultado"
         Me.txtResultado.Size = New System.Drawing.Size(189, 23)
         Me.txtResultado.TabIndex = 17
@@ -208,7 +209,7 @@ Partial Class Form1
         '
         'txtValor
         '
-        Me.txtValor.Location = New System.Drawing.Point(16, 68)
+        Me.txtValor.Location = New System.Drawing.Point(16, 70)
         Me.txtValor.Name = "txtValor"
         Me.txtValor.Size = New System.Drawing.Size(189, 23)
         Me.txtValor.TabIndex = 19
@@ -223,11 +224,21 @@ Partial Class Form1
         Me.Button11.Text = "Button11"
         Me.Button11.UseVisualStyleBackColor = True
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(16, 13)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(113, 15)
+        Me.Label1.TabIndex = 21
+        Me.Label1.Text = "Bienvenidos 1.0.0.14"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(323, 335)
+        Me.ClientSize = New System.Drawing.Size(278, 335)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.txtValor)
         Me.Controls.Add(Me.txtResultado)
@@ -249,7 +260,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla V 1.5"
+        Me.Text = "Calculadora  Sencilla V 1.14"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -275,4 +286,5 @@ Partial Class Form1
     Friend WithEvents txtResultado As TextBox
     Friend WithEvents txtValor As TextBox
     Friend WithEvents Button11 As Button
+    Friend WithEvents Label1 As Label
 End Class

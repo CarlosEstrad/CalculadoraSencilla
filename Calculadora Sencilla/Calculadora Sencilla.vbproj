@@ -8,9 +8,9 @@
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <ApplicationIcon>assest\icon\calculadora.ico</ApplicationIcon>
-    <AssemblyVersion>1.0.0.8</AssemblyVersion>
-    <FileVersion>1.0.0.8</FileVersion>
-    <Version>1.0.11</Version>
+    <AssemblyVersion>1.0.0.14</AssemblyVersion>
+    <FileVersion>1.0.0.14</FileVersion>
+    <Version>1.0.14</Version>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <PackageIcon>calculadora.ico</PackageIcon>
     <PackageIconUrl />
@@ -18,6 +18,7 @@
     <RepositoryType>Repositorio de datos</RepositoryType>
     <Authors>Carlos Estrada</Authors>
     <Description>Podemos calcular operaciones sencillas</Description>
+    <PackageId>001</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

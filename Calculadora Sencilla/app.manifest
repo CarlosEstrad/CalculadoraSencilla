@@ -52,7 +52,7 @@
        deben establecer la configuración "EnableWindowsFormsHighDpiAutoResizing" en "true" en app.config. 
        
        Hace que la aplicación sea compatible con rutas de acceso largas. Consulte https://docs.microsoft.com/windows/win32/fileio/maximum-file-path-limitation -->
-	<deployment install="true" minimumRequiredVersion="1.0.0.11"/>
+	<deployment install="true" minimumRequiredVersion="1.0.0.1"/>
   <application xmlns="urn:schemas-microsoft-com:asm.v3">
     <windowsSettings>
       <dpiAware xmlns="https://github.com/CarlosEstrad/CalculadoraSencilla.git">true</dpiAware>
