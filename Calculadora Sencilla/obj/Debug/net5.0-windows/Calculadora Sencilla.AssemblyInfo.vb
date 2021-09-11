@@ -21,7 +21,6 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyProductAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.14"),  _
- Assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/CarlosEstrad/CalculadoraSencilla.git"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
 

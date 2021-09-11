@@ -11,10 +11,10 @@
     <AssemblyVersion>1.0.0.14</AssemblyVersion>
     <FileVersion>1.0.0.14</FileVersion>
     <Version>1.0.14</Version>
-    <ApplicationManifest>app1.manifest</ApplicationManifest>
+    <ApplicationManifest>app2.manifest</ApplicationManifest>
     <PackageIcon>icons.png</PackageIcon>
     <PackageIconUrl />
-    <RepositoryUrl>https://github.com/CarlosEstrad/CalculadoraSencilla.git</RepositoryUrl>
+    <RepositoryUrl></RepositoryUrl>
     <RepositoryType>Repositorio de datos</RepositoryType>
     <Authors>Carlos Estrada</Authors>
     <Description>Podemos calcular operaciones sencillas</Description>
