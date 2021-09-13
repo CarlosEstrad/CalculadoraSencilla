@@ -223,7 +223,7 @@ Partial Class Form1
         Me.Button11.Name = "Button11"
         Me.Button11.Size = New System.Drawing.Size(59, 46)
         Me.Button11.TabIndex = 20
-        Me.Button11.Text = "prueba 3"
+        Me.Button11.Text = "prueba 4"
         Me.Button11.UseVisualStyleBackColor = True
         '
         'Label1
