@@ -17,7 +17,7 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("Podemos calcular operaciones sencillas"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.14"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.14"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.16"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Calculadora Sencilla"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.14"),  _

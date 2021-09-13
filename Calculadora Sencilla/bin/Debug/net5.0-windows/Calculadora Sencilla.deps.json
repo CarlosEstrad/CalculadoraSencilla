@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Calculadora Sencilla/1.0.14": {
+      "Calculadora Sencilla/1.0.16": {
         "runtime": {
           "Calculadora Sencilla.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Calculadora Sencilla/1.0.14": {
+    "Calculadora Sencilla/1.0.16": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
