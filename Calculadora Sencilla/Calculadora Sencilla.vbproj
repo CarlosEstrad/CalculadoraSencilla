@@ -8,8 +8,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <ApplicationIcon>assest\icon\calculadora.ico</ApplicationIcon>
-    <AssemblyVersion>1.0.0.14</AssemblyVersion>
-    <FileVersion>1.0.0.14</FileVersion>
+    <AssemblyVersion>1.0.0.20</AssemblyVersion>
+    <FileVersion>1.0.0.20</FileVersion>
     <Version>1.0.16</Version>
     <ApplicationManifest>app2.manifest</ApplicationManifest>
     <PackageIcon>icons.png</PackageIcon>
@@ -19,7 +19,7 @@
     <Authors>Carlos Estrada</Authors>
     <Description>Podemos calcular operaciones sencillas</Description>
 
-   <PackageId>001</PackageId>
+   <PackageId>1</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
