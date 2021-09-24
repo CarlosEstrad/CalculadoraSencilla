@@ -139,4 +139,9 @@
             txtResultado.Text = ""
         End If
     End Sub
+
+    Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
+        MessageBox.Show("MUCHACHOS LO LOGRAMOS", "Message",
+                       MessageBoxButtons.OK, MessageBoxIcon.Information)
+    End Sub
 End Class

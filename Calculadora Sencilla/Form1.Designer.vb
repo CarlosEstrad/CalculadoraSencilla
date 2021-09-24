@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
@@ -41,9 +42,10 @@ Partial Class Form1
         Me.ButtonSumar = New System.Windows.Forms.Button()
         Me.txtResultado = New System.Windows.Forms.TextBox()
         Me.txtValor = New System.Windows.Forms.TextBox()
-        Me.Button11 = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button11 = New System.Windows.Forms.Button()
+        Me.Button12 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -156,7 +158,7 @@ Partial Class Form1
         '
         'ButtonBorrar
         '
-        Me.ButtonBorrar.Location = New System.Drawing.Point(212, 219)
+        Me.ButtonBorrar.Location = New System.Drawing.Point(212, 271)
         Me.ButtonBorrar.Name = "ButtonBorrar"
         Me.ButtonBorrar.Size = New System.Drawing.Size(59, 46)
         Me.ButtonBorrar.TabIndex = 12
@@ -165,7 +167,7 @@ Partial Class Form1
         '
         'ButtonDivision
         '
-        Me.ButtonDivision.Location = New System.Drawing.Point(212, 167)
+        Me.ButtonDivision.Location = New System.Drawing.Point(212, 219)
         Me.ButtonDivision.Name = "ButtonDivision"
         Me.ButtonDivision.Size = New System.Drawing.Size(59, 46)
         Me.ButtonDivision.TabIndex = 13
@@ -174,7 +176,7 @@ Partial Class Form1
         '
         'ButtonMultiplicacion
         '
-        Me.ButtonMultiplicacion.Location = New System.Drawing.Point(212, 115)
+        Me.ButtonMultiplicacion.Location = New System.Drawing.Point(212, 167)
         Me.ButtonMultiplicacion.Name = "ButtonMultiplicacion"
         Me.ButtonMultiplicacion.Size = New System.Drawing.Size(59, 46)
         Me.ButtonMultiplicacion.TabIndex = 14
@@ -183,7 +185,7 @@ Partial Class Form1
         '
         'ButtonRestar
         '
-        Me.ButtonRestar.Location = New System.Drawing.Point(212, 63)
+        Me.ButtonRestar.Location = New System.Drawing.Point(212, 115)
         Me.ButtonRestar.Name = "ButtonRestar"
         Me.ButtonRestar.Size = New System.Drawing.Size(59, 46)
         Me.ButtonRestar.TabIndex = 15
@@ -192,7 +194,7 @@ Partial Class Form1
         '
         'ButtonSumar
         '
-        Me.ButtonSumar.Location = New System.Drawing.Point(212, 11)
+        Me.ButtonSumar.Location = New System.Drawing.Point(212, 63)
         Me.ButtonSumar.Name = "ButtonSumar"
         Me.ButtonSumar.Size = New System.Drawing.Size(59, 46)
         Me.ButtonSumar.TabIndex = 16
@@ -216,16 +218,6 @@ Partial Class Form1
         Me.txtValor.TabIndex = 19
         Me.txtValor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'Button11
-        '
-        Me.Button11.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.Button11.Location = New System.Drawing.Point(212, 271)
-        Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(59, 46)
-        Me.Button11.TabIndex = 20
-        Me.Button11.Text = "prueba 4"
-        Me.Button11.UseVisualStyleBackColor = True
-        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -242,17 +234,36 @@ Partial Class Form1
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(69, 15)
         Me.Label2.TabIndex = 22
-        Me.Label2.Text = "version 1.16"
+        Me.Label2.Text = "version 1.18"
+        '
+        'Button11
+        '
+        Me.Button11.Location = New System.Drawing.Point(239, 12)
+        Me.Button11.Name = "Button11"
+        Me.Button11.Size = New System.Drawing.Size(75, 23)
+        Me.Button11.TabIndex = 23
+        Me.Button11.Text = "lo logre!!"
+        Me.Button11.UseVisualStyleBackColor = True
+        '
+        'Button12
+        '
+        Me.Button12.Location = New System.Drawing.Point(277, 63)
+        Me.Button12.Name = "Button12"
+        Me.Button12.Size = New System.Drawing.Size(48, 46)
+        Me.Button12.TabIndex = 24
+        Me.Button12.Text = "Button12"
+        Me.Button12.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Menu
-        Me.ClientSize = New System.Drawing.Size(297, 335)
+        Me.ClientSize = New System.Drawing.Size(337, 335)
+        Me.Controls.Add(Me.Button12)
+        Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.txtValor)
         Me.Controls.Add(Me.txtResultado)
         Me.Controls.Add(Me.ButtonSumar)
@@ -272,8 +283,9 @@ Partial Class Form1
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
-        Me.Text = "Calculadora  Sencilla V 1.16"
+        Me.Text = "Calculadora  Sencilla"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -298,7 +310,8 @@ Partial Class Form1
     Friend WithEvents ButtonSumar As Button
     Friend WithEvents txtResultado As TextBox
     Friend WithEvents txtValor As TextBox
-    Friend WithEvents Button11 As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
+    Friend WithEvents Button11 As Button
+    Friend WithEvents Button12 As Button
 End Class
